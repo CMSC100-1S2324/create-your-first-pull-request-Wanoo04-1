@@ -1,0 +1,9 @@
+Christian B. Rojano	CMSC 100 - EF2L Exercise 1
+
+
+CMSC 100 Journey Expectations
+My expectations for this Web Programming course are as follows:
+- to learn and have proficiency on the tools and technologies for the development of web applications;
+- to acquire the skills and be able to utilize the programming languages and frameworks on web programming mainly the MERN stack;
+- to improve my vital teamwork skills as I pave the way for my web developer career;
+- to have a successful expedition in this course and have a significant appreciation of the field of web programming.

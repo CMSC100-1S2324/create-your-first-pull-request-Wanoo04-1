@@ -2,8 +2,39 @@ Christian B. Rojano	CMSC 100 - EF2L Exercise 1
 
 
 CMSC 100 Journey Expectations
+
+
+
 My expectations for this Web Programming course are as follows:
+
+
 - to learn and have proficiency on the tools and technologies for the development of web applications;
+
 - to acquire the skills and be able to utilize the programming languages and frameworks on web programming mainly the MERN stack;
+
 - to improve my vital teamwork skills as I pave the way for my web developer career;
+
 - to have a successful expedition in this course and have a significant appreciation of the field of web programming.
+
+
+
+Bryan Kyle Delfino' Comments:
+
+
+- First of all, your expectations are very possible to be satisfied in this class.
+
+- It is true that we will be acquiring web development skills, but as developers, we must do some self-studying, researching, and doing of personal projects
+  to further improve our skills when it comes to web development. We can gain skills through the CMSC 100 course but we can further fortify them by doing 
+  the things that I have mentioned. Plus, this is needed since we know that the nature of web development is that it is fast paced and we, as developers, are
+  required to study and know these new technologies.
+
+- It is true that this course will improve cooperation and teamwork. If you heard what I said at the first day of laboratory class, I mentioned that this is 
+  a secret pre-requisite of CMSC 128, Introduction to Software Engineering, which is collaborative in nature. Plus, most likely we are going to be working as
+  a team in the professional industry. Yes, this will be a great course for teamwork.
+
+- Overall, all your expectations are great! Just keep in mind that our focus in the course is not only to pass it but we have to always target for learning. Plus,
+  it's all in the matter of us, the students, whether we'll take the course for granted or take it seriously. If we applied the latter, we'll definitely pass the 
+  course and we'll learn new things from it.
+
+
+That is all! As the senior developers say: LGTM!
